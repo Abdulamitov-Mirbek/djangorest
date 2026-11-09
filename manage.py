@@ -25,4 +25,7 @@ if __name__ == '__main__':
 
 # deployment
 # CI/CD - CI - CONTINUE INTEHGRATION 
-#         CD - CONTINUE DEPLOYMENT 
+#         CD - CONTINUE DEPLOYMENT \
+
+# prod server - production server client part 
+# staging server - testing server razerabotchic 
